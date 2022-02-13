@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x60092e4A3BA94931Ea638bbe32d02e9651D54562",
+  "SCAN_LINK": "https://polygonscan.com/address/0x60092e4a3ba94931ea638bbe32d02e9651d54562",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Space Nerd Society",
+  "SYMBOL": "SNS",
+  "MAX_SUPPLY": 3000,
+  "WEI_COST": 45000000000000000000,
+  "DISPLAY_COST": 45,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/space-nerd-society-sns",
+  "SHOW_BACKGROUND": true
+}
